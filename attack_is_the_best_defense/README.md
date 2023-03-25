@@ -15,6 +15,3 @@ What you should learn from this project:
 * Password-based authentication systems can be easily broken by using a dictionary attack (you’ll have to find your own password dictionary). Let’s try it on an SSH account.
 
 ---
-
-## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
